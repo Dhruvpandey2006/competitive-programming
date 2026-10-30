@@ -26,7 +26,7 @@ int main()
     if(count%2==0){
         cout<<"CHAT WITH HER!"<<endl;
     }else{
-        cout<<"IGONRE HIM!"<<endl;
+        cout<<"IGNORE HIM!"<<endl;
     }
     return 0;
 }
